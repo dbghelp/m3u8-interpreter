@@ -1,2 +1,9 @@
-# m3u8-interpreter
-interpreter for m3u8 playlist in html iptv player
+# mewatch-EPG
+
+## Overview
+
+Javascript interpreter for m3u8 playlist in html iptv player
+
+## Usage
+
+12312312321

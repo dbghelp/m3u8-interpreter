@@ -1,4 +1,4 @@
-# mewatch-EPG
+# m3u8-interpreter
 
 ## Overview
 
